@@ -6,7 +6,7 @@
 
 Let's clone the repo and enter the folder:
 ```bash
-git clone https://github.com/yucellmustafa/plymouth-linux /tmp/plymouth-linux && /tmp/plymouth-linux
+git clone https://github.com/yucellmustafa/plymouth-linux /tmp/plymouth-linux && cd /tmp/plymouth-linux
 ```
 
 Copy the selected theme in plymouth theme dir:
